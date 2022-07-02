@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class firstDegreEquation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
